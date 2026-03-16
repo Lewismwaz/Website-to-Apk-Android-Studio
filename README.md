@@ -977,7 +977,7 @@ Name the file `ic_launcher_background`:
 ![21. Values BG](images/valuesBG.png)
 
 The new `values` structure should be as shown below:
-![22. Layout folder](images/valuesS.png)
+![22. Layout folder](images/valueS.png)
 
 (b). Replace **All** the code for `colors.xml`, `ic_launcher_background.xml`, `strings.xml` and `themes.xml` with the one below. *Change only the values where necessary to fit your preference*:
 (i). `colors.xml`:
