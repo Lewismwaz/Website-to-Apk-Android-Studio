@@ -362,7 +362,7 @@ public class MainActivity extends AppCompatActivity {
 ```java
 private static final String WEBSITE_URL = "https://lewismwaz.co.ke/index.php"
 ```
-and replace `https://lewismwaz.co.ke/index.php` with the actual link to the root/home of your website (First page users should see upon visiting the site).
+and replace `https://lewismwaz.co.ke/index.php` with the actual link to the root/home of your website (First page users should see after the splash screen loads).
 
 (c). Navigate to the code: 
 ```java
