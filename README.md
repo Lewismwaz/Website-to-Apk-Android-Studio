@@ -1149,6 +1149,7 @@ The next step is to create `values-night` directory **if it doesn't already exis
 ---
 
 16. Expand `xml` directory then replace the code: `backup_rules.xml` and `data_extraction_rules.xml` with the one below:
+
 (i). `backup_rules.xml`:
 ```xml
 <?xml version="1.0" encoding="utf-8"?><!--  
