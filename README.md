@@ -1242,8 +1242,10 @@ In the next window, just click **Finish**:
 20. Now you need to create a unique `Apk signature` that every PlayStore app MUST have, then your Apk. Follow the onscreen instructions below:
 (a). Click on the `Main Menu` button (as shown below).
 ![30. Main menu](images/Menu.png)
+
 (b). Select `Build`>`Generate Signed App Bundle or Apk`:
 ![31. Build](images/menu2.png)
+
 (c). Select `Apk` then click **Next**:
 ![32. Signed Apk](images/apk.png)
 
@@ -1254,11 +1256,16 @@ In the next window, just click **Finish**:
 
 ![34. Keystore](images/keystore.png)  
 
-(f). Create a new folder inside the root of `YourApp` and call it `KeyStore`:
-![35. Keystore folder](images/keystore2.png)
-(g). Open the new folder you've just created called `KeyStore`, then provide a File name for your App Signature Key (It's recommended to use `YourAppName`), then click **Save**:
-![36. Key store](images/keystore3.png)
-(h).  Create a unique password for your Key. ***Use the same password for Alias*** to avoid any confusion. Rename the Alias from `key0` to `YourAppNamekey0`. Fill in the details below accordingly then click **OK**:
+(f). Create a new folder inside the root of `YourApp` and call it `KeyStore`:  
+
+![35. Keystore folder](images/keystore2.png)  
+
+(g). Open the new folder you've just created called `KeyStore`, then provide a File name for your App Signature Key (It's recommended to use `YourAppName`), then click **Save**:  
+
+![36. Key store](images/keystore3.png)  
+
+(h).  Create a unique password for your Key. ***Use the same password for Alias*** to avoid any confusion. Rename the Alias from `key0` to `YourAppNamekey0`. Fill in the details below accordingly then click **OK**:  
+
 ![37. Key store details](images/keystore4.png)  
 
 (i). Select `Remember passwords` (to ensure you don't a password every time you build new apps) then click **Next**.  
