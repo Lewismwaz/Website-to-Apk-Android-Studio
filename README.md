@@ -521,7 +521,7 @@ public class SplashActivity extends AppCompatActivity {
 
 ---
 
-8. Expand the `res` directory. Right-click on it: New>Android Resource Directory. Name it `anim` (as shown below):
+8. (a). Expand the `res` directory. Right-click on it: New>Android Resource Directory. Name it `anim` (as shown below):
 ![8. anim folder](images/anim.png)
 ![9. anim](images/animF.png)
 The `res` directory should now look like this + `anim` directory:
