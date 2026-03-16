@@ -82,9 +82,13 @@ Features include:
 | Storage Access | Allows file uploads and downloads           |
 | Notifications  | Displays download completion alerts         |
 
+---
+
+
 
 ### STEP BY STEP CONFIGURATION
-1. Open Android Studio. Open a new project. Select `No Activity` then click Next (as shown below):
+1. Open Android Studio. (a). Click the Menu icon ≣ (top left) then choose: `File>New Project`. 
+(b). Select `No Activity` then click Next (as shown below):
 ![1. New project|600](../assets/images/Android-studio/1.New-project.png)
 
 ---
