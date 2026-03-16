@@ -74,7 +74,7 @@ Features include:
 - Smooth startup transition
 ---
 
-# Application Permissions
+## Application Permissions
 - The application requests several permissions required for native functionality.
 
 | Permission     | Purpose                                     |
