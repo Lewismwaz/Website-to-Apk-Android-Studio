@@ -1,3 +1,5 @@
+# CONVERT ANY WEBSITE INTO A NATIVE ANDROID APK
+
 - Convert any website into a native Android APK using Android Studio and WebView. Includes file uploads, downloads, camera & microphone permissions, printing support, and a clean native app interface.
 - This project is ideal for developers who want to quickly transform a website into a professional mobile application using **Android Studio and Java**.
 
@@ -89,7 +91,7 @@ Features include:
 ### STEP BY STEP CONFIGURATION
 1. Open Android Studio. (a). Click the Menu icon ≣ (top left) then choose: `File>New Project`. 
 (b). Select `No Activity` then click Next (as shown below):
-![1. New project|600](../assets/images/Android-studio/1.New-project.png)
+![1. New project|600](images/1.New-project.png)
 
 ---
 
