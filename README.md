@@ -1246,10 +1246,12 @@ In the next window, just click **Finish**:
 (b). Select `Build`>`Generate Signed App Bundle or Apk`:
 ![31. Build](images/menu2.png)
 
-(c). Select `Apk` then click **Next**:
+(c). Select `Apk` then click **Next**:  
+
 ![32. Signed Apk](images/apk.png)
 
-(d). Select `Create new`:
+(d). Select `Create new`:  
+
 ![33. Keystore](images/apk2.png)  
 
 (e). Select `Key store path`:  
