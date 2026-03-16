@@ -883,7 +883,8 @@ The new `drawable` directory structure should now be similar to the one shown be
 
 ---
 
-13. Click to expand `layout` directory (located below `drawable-night`). 
+13. Click to expand `layout` directory (located below `drawable-night`).
+ 
  ![19. Layout folder](images/layout.png)
 
 Replace **All** the code for `activity_main.xml` and `activity_splash.xml` with the one below:
