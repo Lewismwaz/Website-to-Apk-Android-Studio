@@ -1244,6 +1244,7 @@ In the next window, just click **Finish**:
 ---
 
 20. Now you need to create a unique `Apk signature` that every PlayStore app MUST have, then your Apk. Follow the onscreen instructions below:
+
 (a). Click on the `Main Menu` button (as shown below).
 ![30. Main menu](images/Menu.png)
 
